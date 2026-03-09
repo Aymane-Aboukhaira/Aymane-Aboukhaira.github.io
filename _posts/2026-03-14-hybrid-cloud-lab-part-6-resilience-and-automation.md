@@ -1,6 +1,6 @@
 ---
 title: "Hybrid Cloud Lab Part 6: Resilience & Automation"
-date: 2026-03-14 15:00:00 +0000
+date: 2026-03-06 15:00:00 +0000
 categories: [IT Infrastructure, DevOps]
 tags: [storage, backups, automation, bash, disaster-recovery]
 ---
